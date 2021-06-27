@@ -1,0 +1,22 @@
+h2{
+    font-size: 19px;
+    padding-top: 5px;
+}
+
+.TextCard{
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+@media (max-width: 480px)
+{
+    h2{
+        font-size: 14px;
+        padding-top: 8px;
+    }
+    
+    .TextCard{
+        padding-top: 16px;
+        font-size: 12px;
+    }
+}
